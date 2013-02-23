@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d80bc3-4395-4806-890d-54d37c99e332" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="33d80bc3-4395-4806-890d-54d37c99e332" name="Default" comment="" />
     <ignored path="sdc.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361591073031" ignored="false" />
     <file path="/README.rdoc" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361589617237" ignored="false" />
     <file path="/Dummy.txt" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361591021163" ignored="false" />
     <file path="/README.md" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361591223632" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/app/views/layouts/application.html.erb" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361594944113" ignored="false" />
+    <file path="/application.html.erb" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361594872802" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/app/views/layouts/_header.html.erb" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361597281856" ignored="false" />
+    <file path="/_header.html.erb" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361597279804" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/app/assets/stylesheets/custom.css.scss" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361597031050" ignored="false" />
+    <file path="/custom.css.scss" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361597028938" ignored="false" />
+    <file path="$PROJECT_DIR$/../sample_app/app/assets/javascripts/application.js" changelist="33d80bc3-4395-4806-890d-54d37c99e332" time="1361597425445" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +34,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="200" selection-end="200" vertical-scroll-proportion="0.04901961">
+            <state line="3" column="22" selection-start="196" selection-end="196" vertical-scroll-proportion="0.04901961">
               <folding />
             </state>
           </provider>
@@ -48,7 +53,11 @@
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="19" column="21" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1361591074000" expanded="true" signature="120:318" placeholder="development:" />
+                <marker date="1361591074000" expanded="true" signature="381:448" placeholder="test:" />
+                <marker date="1361591074000" expanded="true" signature="449:482" placeholder="production:" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -456,7 +465,11 @@
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="21" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1361591074000" expanded="true" signature="120:318" placeholder="development:" />
+            <marker date="1361591074000" expanded="true" signature="381:448" placeholder="test:" />
+            <marker date="1361591074000" expanded="true" signature="449:482" placeholder="production:" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -477,7 +490,11 @@
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="21" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1361591074000" expanded="true" signature="120:318" placeholder="development:" />
+            <marker date="1361591074000" expanded="true" signature="381:448" placeholder="test:" />
+            <marker date="1361591074000" expanded="true" signature="449:482" placeholder="production:" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -498,7 +515,11 @@
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="21" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1361591074000" expanded="true" signature="120:318" placeholder="development:" />
+            <marker date="1361591074000" expanded="true" signature="381:448" placeholder="test:" />
+            <marker date="1361591074000" expanded="true" signature="449:482" placeholder="production:" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -511,7 +532,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="200" selection-end="200" vertical-scroll-proportion="0.04901961">
+        <state line="3" column="22" selection-start="196" selection-end="196" vertical-scroll-proportion="0.04901961">
           <folding />
         </state>
       </provider>
